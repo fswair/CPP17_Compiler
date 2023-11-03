@@ -9,7 +9,8 @@ It's GCC Compiler for C/C++ working on Telegram.
   - /help
 
 # Example Input
-* !run std=14 ```cpp
+* !run std=14
+```cpp
 #include <iostream>
 
 int main() {
